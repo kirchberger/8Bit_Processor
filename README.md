@@ -9,6 +9,8 @@ Current set of instructions:
 | Store |
 | Add |
 | Subtract |
+| And |
+| OR |
 | Compare |
 | Jump |
 
